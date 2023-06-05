@@ -1,0 +1,353 @@
+<!doctype html>
+<html class="no-js" lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Gaming Colour Full Website</title>
+    <meta name="description" content="Bonx is a Bootstrap5 Template exclusively built for Gaming Website Template">
+    <meta name="keywords" content="Online Gaming HTML Template, Gaming Magazine Template, Gaming Bootstrap 5 Template, Gaming Template based on Bootstrap, Gaming Bootstrap 5 HTML Template">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="p2/img/favicon.webp">
+    <!-- All CSS Files -->
+    <!-- Bootstrap css -->
+    <link rel="stylesheet" href="p2/css/bootstrap.min.css">
+    <!-- Icon Font -->
+    <link rel="stylesheet" href="p2/css/font-awesome.min.css">
+    <link rel="stylesheet" href="p2/css/et-line.css">
+    <!-- Plugins css file -->
+    <link rel="stylesheet" href="p2/css/plugins.css">
+    <!-- Theme main style -->
+    <link rel="stylesheet" href="p2/style.css">
+    <!-- Responsive css -->
+    <link rel="stylesheet" href="p2/css/responsive.css">
+    <!-- Modernizr JS -->
+    <script src="p2/js/vendor/modernizr-2.8.3.min.js"></script>
+	
+	
+	
+	
+	<style type="text/css">
+		.buy-btn.top-btn {
+		  background-color: #3E5B82  ;
+		  border-color: #b154f0;
+		}
+		.buy-btn:hover {
+		  background-color: #F9CCA1  ;
+		  border-color: #b154f0  ;
+		}
+		.demo-item .image::after {
+			background-color: #F9CCA1  ;
+		}
+		.demo-item .image i:hover {
+			color: #b154f0  ;
+		}
+		.stick .buy-btn.top-btn {
+		  border: 2px solid #b154f0  ;
+		  color: #fff;
+		}
+		.stick .buy-btn {
+		  border: 2px solid #b154f0  ;
+		  color: #b154f0  ;
+		}
+		.single-feature .icon {
+			color: #b154f0  ;
+		}
+		.footer-section {
+		 background-color: #7D4533;
+		}
+		.stick .buy-btn:hover {
+			color: #fff;
+		}
+		.demo-item .title a:hover {
+			color: #b154f0  ;
+		}
+		.footer-section .buy-btn:hover {
+			color: #2A3242  ;
+		}
+		.footer-section .buy-btn.bottom-btn {
+			color: #fff;
+            background-color: #b154f0  ;
+            border: 2px solid #b154f0  ;
+		}
+        .hero-content h1 strong{
+            text-transform: capitalize;
+        }
+        .stick .non-sticky {
+          display: none;
+        }
+        .demo-item {
+          box-shadow: 0 0 15px rgba(0, 0, 0, 0.15);
+        }
+        .demo-item .title {
+          padding: 20px 0;
+            margin: 0;
+        }
+        .float-right a{
+            display: inline-block;
+        }
+        .hader-inner{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 15px 0;
+        }
+        .stick .hader-inner {
+            padding: 0;
+        }
+	</style>
+
+
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5JCTSSF');</script>
+    <!-- End Google Tag Manager -->
+    
+	
+	
+</head>
+
+<body>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5JCTSSF"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+<!-- Start Header Section -->
+<div class="header-section section sticker">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="hader-inner d-flex justify-content-between">
+                    <!-- Logo -->
+                    <div class="logo">
+                        <a class="non-sticky" href="index.html"><img src="p2/img/bonx/logo-white.png" alt="logo-image"></a>
+                        <a class="sticky-logo" href="index.html"><img src="p2/img/bonx/logo-white.png" alt=""></a>
+                    </div>
+                    <!-- Logo -->
+                    <div class="header-right-link">
+                        <a class="buy-btn top-btn" target="_blank" rel="noopener noreferrer" href="https://1.envato.market/5bYVDj">Buy Game</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Header Section End -->
+
+<!-- Start Hero Section -->
+<div class="hero-section section overlay" style="background-image: url('p2/img/bonx/preview.webp')">
+    <div class="container">
+        <div class="row">
+            <div class="hero-content text-center col-xs-12">
+                <h1><strong>Game</strong> This is Gameing Colourful Website</h1>
+                <p>Game is a  exclusively built for Gaming Website Template</p>
+                <a class="buy-btn" href="#demo">View Demo</a>
+            </div>
+            
+        </div>
+    </div>
+</div>
+<!-- Hero Section End -->
+
+<!-- Start Demo Section -->
+<div id="demo" class="demo-section section pt-120 pb-70">
+    <div class="container">
+        <div class="row">
+            <div class="section-style">
+                <div class="section-title col-xs-12 mb-70">
+                    <h1>Homepage </h1>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4 col-sm-6 col-12 mb-50">
+                <div class="demo-item">
+                    <a href="bonx/index.html" class="image"><img src="p2/img/bonx/home.webp" alt=""><i class="fa fa-long-arrow-right"></i></a>
+                    <h4 class="title"><a href="bonx/index.html">Homepage-01</a></h4>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6 col-12 mb-50">
+                <div class="demo-item">
+                    <a href="bonx/about.html" class="image"><img src="p2/img/bonx/about.jpg" alt=""><i class="fa fa-long-arrow-right"></i></a>
+                    <h4 class="title"><a href="bonx/about.html">About page</a></h4>
+                </div>
+            </div>
+            
+            <div class="col-md-4 col-sm-6 col-12 mb-50">
+                <div class="demo-item">
+                    <a href="bonx/match.html" class="image"><img src="p2/img/bonx/match.jpg" alt=""><i class="fa fa-long-arrow-right"></i></a>
+                    <h4 class="title"><a href="bonx/match.html">Match Page</a></h4>
+                </div>
+            </div>
+
+            <div class="col-md-4 col-sm-6 col-12 mb-50">
+                <div class="demo-item">
+                    <a href="bonx/match-details.html" class="image"><img src="p2/img/bonx/match 01.jpg" alt=""><i class="fa fa-long-arrow-right"></i></a>
+                    <h4 class="title"><a href="bonx/match-details.html">Match Details</a></h4>
+                </div>
+            </div>
+            
+            <div class="col-md-4 col-sm-6 col-12 mb-50">
+                <div class="demo-item">
+                    <a href="bonx/all-game.html" class="image"><img src="p2/img/bonx/all.jpg" alt=""><i class="fa fa-long-arrow-right"></i></a>
+                    <h4 class="title"><a href="bonx/all-game.html">All Game</a></h4>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6 col-12 mb-50">
+                <div class="demo-item">
+                    <a href="bonx/game-details.html" class="image"><img src="p2/img/bonx/game-details.webp" alt=""><i class="fa fa-long-arrow-right"></i></a>
+                    <h4 class="title"><a href="bonx/game-details.html">Game Details</a></h4>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6 col-12 mb-50">
+                <div class="demo-item">
+                    <a href="bonx/players.html" class="image"><img src="p2/img/bonx/players.webp" alt=""><i class="fa fa-long-arrow-right"></i></a>
+                    <h4 class="title"><a href="bonx/players.html">Players</a></h4>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6 col-12 mb-50">
+                <div class="demo-item">
+                    <a href="bonx/player-details.html" class="image"><img src="p2/img/bonx/player-details.webp" alt=""><i class="fa fa-long-arrow-right"></i></a>
+                    <h4 class="title"><a href="bonx/player-details.html">Players Details</a></h4>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6 col-12 mb-50">
+                <div class="demo-item">
+                    <a href="bonx/registration.html" class="image"><img src="p2/img/bonx/sign-up.webp" alt=""><i class="fa fa-long-arrow-right"></i></a>
+                    <h4 class="title"><a href="bonx/registration.html">Registration</a></h4>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6 col-12 mb-50">
+                <div class="demo-item">
+                    <a href="bonx/login.html" class="image"><img src="p2/img/bonx/login.webp" alt=""><i class="fa fa-long-arrow-right"></i></a>
+                    <h4 class="title"><a href="bonx/login.html">Login</a></h4>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6 col-12 mb-50">
+                <div class="demo-item">
+                    <a href="bonx/blog-left-sidebar.html" class="image"><img src="p2/img/bonx/blog-left-sidebar.webp" alt=""><i class="fa fa-long-arrow-right"></i></a>
+                    <h4 class="title"><a href="bonx/blog-left-sidebar.html">Blog Left Sidebar</a></h4>
+                </div>
+            </div>
+            
+            <div class="col-md-4 col-sm-6 col-12 mb-50">
+                <div class="demo-item">
+                    <a href="bonx/blog-details.html" class="image"><img src="p2/img/bonx/blog-details.webp" alt=""><i class="fa fa-long-arrow-right"></i></a>
+                    <h4 class="title"><a href="bonx/blog-details.html">Blog Details</a></h4>
+                </div>
+            </div>
+            
+            <div class="col-md-4 col-sm-6 col-12 mb-50">
+                <div class="demo-item">
+                    <a href="bonx/contact.html" class="image"><img src="p2/img/bonx/contact.webp" alt=""><i class="fa fa-long-arrow-right"></i></a>
+                    <h4 class="title"><a href="bonx/contact.html">Contact Us</a></h4>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6 col-12 mb-50">
+                <div class="demo-item">
+                    <a href="bonx/faq.html" class="image"><img src="p2/img/bonx/faq-page.webp" alt=""><i class="fa fa-long-arrow-right"></i></a>
+                    <h4 class="title"><a href="bonx/faq.html">Faq Page</a></h4>
+                </div>
+            </div>
+            
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!-- Start Hero Section -->
+<div class="feature-section section pt-150 pb-100">
+    <div class="container">
+        <div class="row">
+            <div class="section-title col-xs-12 mb-70">
+                <h2>Game Features</h2>
+            </div>
+            
+            <div class="single-feature col-md-4 col-sm-6 col-xs-12 mb-50">
+                <span class="icon float-left"><i class="icon-mobile"></i></span>
+                <div class="content fix">
+                    <h4>Responsive Design</h4>
+                    <p>Game is supper responsive & work perfectly in all devices.</p>
+                </div>
+            </div>
+            <div class="single-feature col-md-4 col-sm-6 col-xs-12 mb-50">
+                <span class="icon float-left"><i class="icon-profile-male"></i></span>
+                <div class="content fix">
+                    <h4>User Friendly</h4>
+                    <p>Game easy to use for any technical & nontechnical People.</p>
+                </div>
+            </div>
+            <div class="single-feature col-md-4 col-sm-6 col-xs-12 mb-50">
+                <span class="icon float-left"><i class="icon-beaker"></i></span>
+                <div class="content fix">
+                    <h4>Creative Design</h4>
+                    <p>It's comes with creative & smart design layout.</p>
+                </div>
+            </div>
+                       
+            
+            </div>
+            <div class="single-feature col-md-4 col-sm-6 col-xs-12 mb-50">
+                <span class="icon float-left"><i class="icon-search"></i></span>
+                <div class="content fix">
+                    <h4>Clean Markup</h4>
+                    <p>We developed it followed by W3C Markup.</p>
+                </div>
+            </div>
+            <div class="single-feature col-md-4 col-sm-6 col-xs-12 mb-50">
+                <span class="icon float-left"><i class="icon-upload"></i></span>
+                <div class="content fix">
+                    <h4>Free Updates</h4>
+                    <p>Purchase once & get life-time free updates.</p>
+                </div>
+            </div>
+            <div class="single-feature col-md-4 col-sm-6 col-xs-12 mb-50">
+                <span class="icon float-left"><i class="icon-megaphone"></i></span>
+                <div class="content fix">
+                    <h4>Real Support</h4>
+                    <p>We provide 7 days a week one by one real support.</p>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</div>
+<!-- Hero Section End -->
+
+
+
+<div class="footer-section section pt-65 pb-50">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <h1>This Web Site Made By Bulbul Islam</h1>
+                <a class="buy-btn float-right bottom-btn" target="_blank" rel="noopener noreferrer" href="https://1.envato.market/5bYVDj">Buy Game</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!-- Placed JS at the end of the document so the pages load faster -->
+<!-- jQuery latest version -->
+<script src="p2/js/vendor/jquery-3.1.1.min.js"></script>
+<!-- Bootstrap js -->
+<script src="p2/js/bootstrap.min.js"></script>
+<!-- Plugins js -->
+<script src="p2/js/plugins.js"></script>
+<!-- Ajax Mail js -->
+<script src="p2/js/ajax-mail.js"></script>
+<!-- Main js -->
+<script src="p2/js/main.js"></script>
+
+</body>
+
+</html>
